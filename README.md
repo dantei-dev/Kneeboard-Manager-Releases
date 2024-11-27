@@ -2,8 +2,8 @@
 
 <img src="images/tab_kneeboards.png" style="width: 48%; float: left;" alt="Screenshot Kneeboards Tab"/>   <img src="images/tab_matrix.png" style="width: 48%; float: left;" alt="Screenshot Matrix Tab"/>
 
-Latest Version: [0.0.3](//github.com/dantei-dev/Kneeboard-Manager-Releases/releases)
-Highlights: Slantable aircraft labels,  
+Latest Version: [0.0.3](//github.com/dantei-dev/Kneeboard-Manager-Releases/releases)   
+Highlights: Slantable aircraft labels, new fonts, new image browser, mark unhandled/external files, ...
 
 The *Kneeboard Manager* allows to easily manage and organize multiple kneeboards between multiple DCS aircrafts.
 No more need to copy dozens of files manually into multiple directories.  
@@ -27,13 +27,10 @@ Features:
 - Create aircraft folders (based on internal list of existing aircrafts)
 - Convert JPG to PNG when copying kneeboards to aircrafts
 - Built-in documentation
-- Multiple UI themes
-- Basic trouble-shooting assistent
+- Built-in image viewer
 
-Planned features:
-- Show kneeboard pages not managed by this program
-- Kneeboard viewer (with bigger images and easier browsing)
-- Import folders and images
+For a change log, see the [releases](//github.com/dantei-dev/Kneeboard-Manager-Releases/releases/).
+
 
 Screenshots:
 
