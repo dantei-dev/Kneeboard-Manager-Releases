@@ -2,6 +2,9 @@
 
 <img src="images/tab_kneeboards.png" style="width: 48%; float: left;" alt="Screenshot Kneeboards Tab"/>   <img src="images/tab_matrix.png" style="width: 48%; float: left;" alt="Screenshot Matrix Tab"/>
 
+Latest Version: [0.0.3](//github.com/dantei-dev/Kneeboard-Manager-Releases/releases)
+Highlights: Slantable aircraft labels,  
+
 The *Kneeboard Manager* allows to easily manage and organize multiple kneeboards between multiple DCS aircrafts.
 No more need to copy dozens of files manually into multiple directories.  
 No more need to manually create directories for new aircrafts.  
@@ -35,5 +38,5 @@ Planned features:
 Screenshots:
 
 <img src="images/tab_kneeboards.png" style="width: 48%; float: left;" alt="Screenshot Kneeboards Tab"/>   <img src="images/tab_aircrafts.png" style="width: 48%; float: left;" alt="Screenshot Aircrafts Tab"/>
-<img src="images/tab_matrix.png" style="width: 48%; float: left;" alt="Screenshot Matrix Tab"/>  <img src="images/help_browser.png" style="width: 48%; float: left;" alt="Screenshot Help Browser"/>
-<img src="images/configuration_dialog.png" style="width: 48%; float: left;" alt="Screenshot Configuration Dialog"/>  
+<img src="images/tab_matrix.png" style="width: 48%; float: left;" alt="Screenshot Matrix Tab"/>  <img src="images/kneeboard_browser.png" style="width: 48%; float: left;" alt="Screenshot Kneeboard Browser"/>
+<img src="images/help_browser.png" style="width: 48%; float: left;" alt="Screenshot Help Browser"/>  <img src="images/configuration_dialog.png" style="width: 48%; float: left;" alt="Screenshot Configuration Dialog"/>  
