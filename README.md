@@ -2,10 +2,10 @@
 
 <img src="images/tab_kneeboards.png" style="width: 48%; float: left;" alt="Screenshot Kneeboards Tab"/>   <img src="images/tab_matrix.png" style="width: 48%; float: left;" alt="Screenshot Matrix Tab"/>
 
-Latest Version: [0.0.4](//github.com/dantei-dev/Kneeboard-Manager-Releases/releases) (2025-02-08)  
+Latest Version: [0.0.4-1](//github.com/dantei-dev/Kneeboard-Manager-Releases/releases) (2025-02-09)  
 Latest Highlights:
 - Matrix: Aircraft labels stay always visible
-- Several bugfixes, including config-related crashes
+- Several bugfixes, including several crashes (invalid config, invalid images files, ..)
 - "DCS Tweaks" tab, allows changing text size in VR and de-sanitizing Lua.
 
 The *Kneeboard Manager* allows to easily manage and organize multiple kneeboards between multiple DCS aircrafts.
