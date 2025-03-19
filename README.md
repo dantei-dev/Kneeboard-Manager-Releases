@@ -1,4 +1,12 @@
+<img src="images/logo.png" style="width: 32%; margin: auto; display: block;" alt="KneeboardManager Logo"/>
+
+<center>
+
 # Kneeboard Manager   for DCS
+
+[![Release version](https://img.shields.io/github/v/release/dantei-dev/Kneeboard-Manager-Releases?color=brightgreen&label=Download&style=for-the-badge)](/dantei-dev/Kneeboard-Manager-Releases/releases "Installation")
+
+</center>
 
 <img src="images/tab_kneeboards.png" style="width: 48%; float: left;" alt="Screenshot Kneeboards Tab"/>   <img src="images/tab_matrix.png" style="width: 48%; float: left;" alt="Screenshot Matrix Tab"/>
 
@@ -39,5 +47,5 @@ For the change log, see the [releases](//github.com/dantei-dev/Kneeboard-Manager
 Screenshots:
 
 <img src="images/tab_kneeboards.png" style="width: 48%; float: left;" alt="Screenshot Kneeboards Tab"/>   <img src="images/tab_aircrafts.png" style="width: 48%; float: left;" alt="Screenshot Aircrafts Tab"/>
-<img src="images/tab_matrix.png" style="width: 48%; float: left;" alt="Screenshot Matrix Tab"/>  <img src="images/kneeboard_browser.png" style="width: 48%; float: left;" alt="Screenshot Kneeboard Browser"/>
+<img src="images/tab_matrix.png" style="width: 48%; float: left;" alt="Screenshot Matrix Tab"/>  <img src="images/tab_dcs.png" style="width: 48%; float: left;" alt="Screenshot DCS Tweaks Tab"/>  <img src="images/kneeboard_browser.png" style="width: 48%; float: left;" alt="Screenshot Kneeboard Browser"/>
 <img src="images/help_browser.png" style="width: 48%; float: left;" alt="Screenshot Help Browser"/>  <img src="images/configuration_dialog.png" style="width: 48%; float: left;" alt="Screenshot Configuration Dialog"/>  
